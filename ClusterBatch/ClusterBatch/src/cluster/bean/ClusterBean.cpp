@@ -1,18 +1,18 @@
 /*
- * Machine.cpp
+ * ClusterBean.cpp
  *
  *  Created on: 2021Äê2ÔÂ18ÈÕ
  *      Author: fangchunjing
  */
 
-#include "Machine.h"
+#include "ClusterBean.h"
 
-Machine::Machine() {
+ClusterBean::ClusterBean() {
 	// TODO Auto-generated constructor stub
 
 }
 
-Machine::~Machine() {
+ClusterBean::~ClusterBean() {
 	// TODO Auto-generated destructor stub
 }
 
